@@ -1,0 +1,215 @@
+#EXTM3U  url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Основное",1 канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основное",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Основное",НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" tvg-logo="https://i.imgur.com/4KiYSln.png" group-title="Основное",Победа
+https://streaming.televizor-24-tochka.ru/live/43.m3u8
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="Основное",Звезда HD
+http://51.158.144.33:2021/zvezda/index.m3u8
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru@SD" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Основное",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Основное",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Основное",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="https://iptvx.one/picons/mir24.png" group-title="Основное",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://epg.iptvx.one/picons/kino-tv.png" group-title="Основное",КиноТВ
+http://stream.mcquack.net/221/index.m3u8
+#EXTINF:-1 group-title="Основное",Дом Кино
+https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://iptvx.one/picons/rt-doc.png" group-title="Основное",RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 group-title="Основное",Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 group-title="Основное",Перец
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1 group-title="Основное",Домашний
+http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1 group-title="Основное",Пятый канал
+http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjEvdHY1LzV0di9zdHJlYW1zLmpzb24=
+#EXTINF:-1 group-title="Основное",Золотая коллекция
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="Основное",Пятница!
+http://stream.mcquack.net/181/index.m3u8
+#EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv-mir.png" group-title="Основное",НТВ-Мир
+https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Основное",НТВ Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" tvg-logo="https://iptvx.one/picons/ntv-xit.png" group-title="Основное",НТВ Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Moskva24.ru@SD" tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="Основное",Москва 24
+https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
+#EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="Основное",Москва Доверие 
+https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Основное",СТС 
+http://46.162.201.15:8000/play/a09c/index.m3u8
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Основное",ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
+#EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Основное",ТНТ4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
+#EXTINF:-1 group-title="Основное",ТВ-3
+http://89.33.29.115:8080/TV_3/index.m3u8
+#EXTINF:-1 tvg-id="Bolt.ru" tvg-logo="https://i.imgur.com/YdIHXOR.png" tvg-name="bolt" group-title="Основное",BOLT
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Основное",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Основное",360°
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 group-title="Основное",ТСВ
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",BCU
+http://stream.mcquack.net/488/index.m3u8
+#EXTINF:-1 group-title="Основное",Viju TV1000 Русское
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Основное",Viju TV1000 HD
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 group-title="Основное",Viju TV1000 Action
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 group-title="Основное",Viju+ Premiere
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 group-title="Основное",Viju+ Megahit
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="Основное",Viju+ Comedy
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 group-title="Основное",Кинопремьера HD
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Основное",Кинокомедия
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="Основное",Киносерия
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="Основное",Мужское Кино
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="Основное",Родное кино
+http://stream.mcquack.net/242/index.m3u8
+#EXTINF:-1 group-title="Основное",Кинохит HD
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="Основное",Наше новое кино
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Индийское кино
+http://stream.mcquack.net/104/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Киномикс
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Киносвидание
+http://stream.mcquack.net/171/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Киносемья
+http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1 group-title="Основное",Киноужас
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="Основное",НСТ
+http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1 tvg-id="KvartalTVInternational.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" group-title="Основное",Kvartal TV International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Основное",2x2
+http://stream.mcquack.net/187/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon_hd" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Основное",Nickelodeon HD
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://itv.uz/logos/nicktoons.png" group-title="Основное",Nicktoons
+https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Основное",Cartoon Network
+http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Основное",Мульт HD
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="Основное",Карусель
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="Основное",CPS Cartoon HD
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="Основное",Сарафан
+http://192.162.64.99:5000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Основное",Россия 24 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+#EXTINF:-1 tvg-id="kultura" tvg-logo="https://iptvx.one/picons/kultura.png" group-title="Основное",Россия К HD
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-logo="https://iptvx.one/picons/russky-roman.png" group-title="Основное",Русский роман
+http://stream.mcquack.net/266/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Бестселлер
+http://stream.mcquack.net/208/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Детектив
+http://stream.mcquack.net/204/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Комедия
+http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Дом Кино Премиум
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Суббота!
+http://stream.mcquack.net/269/index.m3u8
+#EXTINF:-1 tvg-id="gubernia-samara" tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="Основное",Губерния (Самара)
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Основное",Star Cinema
+https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Viju Explore
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Viju History
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
+http://stream.mcquack.net/318/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe HD
+http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
+http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="data:image/svg+xml,<svg xmlns=",Shanson TV
+http://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/zhar-ptica.png",Жар Птица
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Europa Plus TV
+http://stream.mcquack.net/184/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Inrating
+http://stream.mcquack.net/147/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Музыка Первого
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Муз ТВ
+http://stream.mcquack.net/86/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Жара
+http://stream.mcquack.net/386/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",RU TV
+http://stream.mcquack.net/109/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Ля-минор ТВ
+http://stream.mcquack.net/303/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",ТНТ music
+http://stream.mcquack.net/317/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/radio-strana-fm-tv.png",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон-ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio" group-title="Радио",Наше радио
+http://nashe1.hostingradio.ru/nashespb128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-rock-fm.png" group-title="Радио",ROCK-FM
+http://nashe1.hostingradio.ru/rock-64.mp3
+#EXTINF:-1 radio="true" tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио",Хит FM
+http://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png" group-title="Радио",Русское радио
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg" group-title="Радио",Maximum
+http://maximum.hostingradio.ru/maximum96.aacp
+#EXTINF:-1 radio="true" tvg-id="vesti-fm" tvg-logo="https://epgx.site/p/vesti-fm.png" group-title="Радио",Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+#EXTINF:-1 radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png" group-title="Радио",Радио Европа Плюс
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-ultra.png" group-title="Радио",Ultra
+http://nashe1.hostingradio.ru/ultra-64.mp3
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
+http://23.105.238.4/gpm-avtoradio495.aacp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/%D0%94%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_2015.png" group-title="Радио",Дорожное Радио
+https://dorognoe.hostingradio.ru/radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_2019.png" group-title="Радио",Новое радио
+http://stream.newradio.ru/moscow.novoe.aacp
+#EXTINF:-1 tvg-id="dacha" group-title="Радио",Радио Дача
+https://ic1.radiosignal.one/vanya
+#EXTINF:-1 tvg-id="pioner-fm" group-title="Радио",Пионер FM
+https://listen10.myradio24.com/pionerfm
+#EXTINF:-1 tvg-id="sd90" group-title="Радио",Супердискотека 90-х
+https://radiorecord.hostingradio.ru/sd9096.aacp
+#EXTINF:-1 tvg-id="retro-fm" group-title="Радио",Ретро FM
+https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
+#EXTINF:-1 tvg-id="mayak" group-title="Радио",Радио Маяк
+https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
