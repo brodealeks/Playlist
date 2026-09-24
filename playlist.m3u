@@ -45,8 +45,8 @@ https://cdn.ntv.ru/th_hit/index.m3u8
 https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=37881ef2e289f062ceff0dca6c24dc58
 #EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="Основное",Москва Доверие 
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sts-int.png" group-title="Основное",СТС 
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",СТС
+#EXTINF:-1 group-title="Основное",СТС HD
+http://89.33.29.115:8080/STS_HD/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Основное",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Основное",ТНТ4 HD
@@ -79,16 +79,12 @@ http://stream.mcquack.net/311/index.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основное",Кинокомедия
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="Основное",Киносерия
-http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 group-title="Основное",Мужское Кино
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1 group-title="Основное",Родное кино
 http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 group-title="Основное",Кинохит HD
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru@SD" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="Основное",Наше новое кино
-http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Индийское кино
 http://stream.mcquack.net/104/index.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",Киномикс
