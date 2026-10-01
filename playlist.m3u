@@ -46,7 +46,7 @@ https://stream.smotrim.ru/hls/givc8/playlist.m3u8?entity=channel&id=798&sign=378
 #EXTINF:-1 tvg-id="MoskvaDoveriye.ru@SD" tvg-logo="https://i.imgur.com/QDqDQzt.png" group-title="Основное",Москва Доверие 
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Основное",СТС HD
-http://89.33.29.115:8080/STS_HD/index.m3u8
+http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 tvg-id="tnt" tvg-logo="https://iptvx.one/picons/tnt.png" group-title="Основное",ТНТ HD
 https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9H6z-O74nqbdC30HqutIw&e=2070623480&scheme=https
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Основное",ТНТ4 HD
@@ -59,8 +59,6 @@ https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 group-title="Основное",ТСВ
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",BCU
-http://stream.mcquack.net/488/index.m3u8
 #EXTINF:-1 group-title="Основное",Viju TV1000 Русское
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основное",Viju TV1000 HD
@@ -112,9 +110,33 @@ http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 group-title="Основное",Карусель
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 #EXTINF:-1 group-title="Основное", СТС KIDS
-http://89.33.29.115:8080/sts_kids_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Основное", СТС Love
-http://89.33.29.115:8080/STS_Love/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH PREMIERE
+http://stream.mcquack.net/424/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH CINEMA
+http://stream.mcquack.net/423/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH RATING
+http://stream.mcquack.net/422/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH VHS
+http://stream.mcquack.net/428/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH FAMILY
+http://stream.mcquack.net/427/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH COMEDY
+http://stream.mcquack.net/426/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH tharilles
+http://stream.mcquack.net/434/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH romantic
+http://stream.mcquack.net/433/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH adventure
+http://stream.mcquack.net/432/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH horror
+http://stream.mcquack.net/431/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH series
+http://stream.mcquack.net/430/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH fantastic
+http://stream.mcquack.net/429/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH KIDS
+http://stream.mcquack.net/425/index.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="Основное",Сарафан
 http://192.162.64.99:5000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Основное",Россия 24 HD
