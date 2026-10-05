@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="http://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Основное",1 канал HD
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основное",Россия 1 HD
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Основное",НТВ HD
@@ -33,6 +33,8 @@ http://stream.mcquack.net/227/index.m3u8
 http://94.250.255.172/ptv/vitrina/ch.php?id=aHR0cHM6Ly9tZWRpYS5tZWRpYXZpdHJpbmEucnUvYmFsYW5jZXIvdjEvdHY1LzV0di9zdHJlYW1zLmpzb24=
 #EXTINF:-1 group-title="Основное",Золотая коллекция
 http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="Основное" audio-track="rus", Советское кино
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Основное",Пятница!
 http://stream.mcquack.net/181/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" tvg-logo="https://iptvx.one/picons/ntv-mir.png" group-title="Основное",НТВ-Мир
@@ -52,7 +54,7 @@ https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=M9
 #EXTINF:-1 tvg-id="tnt4" tvg-logo="https://iptvx.one/picons/tnt4.png" group-title="Основное",ТНТ4 HD
 https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=zhnm9INH7ysOhS2LQStm2A&e=2070623480&scheme=https
 #EXTINF:-1 group-title="Основное",ТВ-3
-http://89.33.29.115:8080/TV_3/index.m3u8
+http://stream.mcquack.net/136/index.m3u8
 #EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Основное",Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="Основное",360°
@@ -104,13 +106,15 @@ https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://itv.uz/logos/nicktoons.png" group-title="Основное",Nicktoons
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основное",Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
+http://45.132.87.69:8080/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="Основное",Мульт HD
 http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 group-title="Основное",Карусель
 https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
 #EXTINF:-1 group-title="Основное", СТС KIDS
 http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-id="v-gostiax-u-skazki" audio-track="rus", В гостях у сказки HD
+https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH PREMIERE
 http://stream.mcquack.net/424/index.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH CINEMA
@@ -173,6 +177,8 @@ http://stream.mcquack.net/272/index.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
 http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 tvg-id="HitFM.md@SD" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="Музыка",Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="data:image/svg+xml,<svg xmlns=",Shanson TV
 http://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/zhar-ptica.png",Жар Птица
