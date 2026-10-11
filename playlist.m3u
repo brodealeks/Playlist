@@ -141,6 +141,18 @@ http://stream.mcquack.net/430/index.m3u8
 http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH KIDS
 http://stream.mcquack.net/425/index.m3u8
+EXTINF:-1 group-title="Основное",CineMan Top
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное",Cineman Premium
+http://stream.mcquack.net/470/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное",Cineman Катастрофы
+http://stream.mcquack.net/471/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное",Cineman Мелодрама
+http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное",CineMan Action
+http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное",CineMan Thriller
+http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="Основное",Сарафан
 http://192.162.64.99:5000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Основное",Россия 24 HD
