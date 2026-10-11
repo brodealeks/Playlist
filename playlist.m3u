@@ -193,8 +193,6 @@ http://stream.mcquack.net/320/index.m3u8
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="data:image/svg+xml,<svg xmlns=",Shanson TV
 http://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/zhar-ptica.png",Жар Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=2r54ZPgnc2r3TX_Z4F-zEg&e=2070623526&scheme=https
 #EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Europa Plus TV
 http://stream.mcquack.net/184/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-rec="7" timeshift="7",Inrating
