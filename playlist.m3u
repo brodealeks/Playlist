@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTM3U  url-tvg="http://iptvx.one/epg/epg.xml.gz" 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Основное",1 канал HD
 http://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Основное",Россия 1 HD
