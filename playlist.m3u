@@ -95,26 +95,6 @@ http://stream.mcquack.net/171/index.m3u8
 http://stream.mcquack.net/170/index.m3u8
 #EXTINF:-1 group-title="Основное",Киноужас
 http://stream.mcquack.net/278/index.m3u8
-#EXTINF:-1 group-title="Основное",НСТ
-http://stream.mcquack.net/207/index.m3u8
-#EXTINF:-1 tvg-id="KvartalTVInternational.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" group-title="Основное",Kvartal TV International
-https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Основное",2x2
-http://stream.mcquack.net/187/index.m3u8
-#EXTINF:-1 tvg-id="nickelodeon_hd" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Основное",Nickelodeon HD
-https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://itv.uz/logos/nicktoons.png" group-title="Основное",Nicktoons
-https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Основное",Cartoon Network
-http://45.132.87.69:8080/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="Основное",Мульт HD
-http://185.46.16.239:8000/Mir_24
-#EXTINF:-1 group-title="Основное",Карусель
-https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
-#EXTINF:-1 group-title="Основное", СТС KIDS
-http://stream.mcquack.net/197/index.m3u8
-#EXTINF:-1 group-title="Основное" tvg-id="v-gostiax-u-skazki" audio-track="rus", В гостях у сказки HD
-https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH PREMIERE
 http://stream.mcquack.net/424/index.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH CINEMA
@@ -153,6 +133,26 @@ http://stream.mcquack.net/472/tracks-v1a1/mono.ts.m3u8
 http://stream.mcquack.net/351/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Основное",CineMan Thriller
 http://stream.mcquack.net/352/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное",НСТ
+http://stream.mcquack.net/207/index.m3u8
+#EXTINF:-1 tvg-id="KvartalTVInternational.ua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Kvartal_TV_International_%28HD_Logo%29.png" group-title="Основное",Kvartal TV International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Основное",2x2
+http://stream.mcquack.net/187/index.m3u8
+#EXTINF:-1 tvg-id="nickelodeon_hd" tvg-logo="https://itv.uz/logos/nick_hd.png" group-title="Основное",Nickelodeon HD
+https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nicktoons" tvg-logo="https://itv.uz/logos/nicktoons.png" group-title="Основное",Nicktoons
+https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Основное",Cartoon Network
+http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="Основное",Мульт HD
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="Основное",Карусель
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="Основное", СТС KIDS
+http://stream.mcquack.net/197/index.m3u8
+#EXTINF:-1 group-title="Основное" tvg-id="v-gostiax-u-skazki" audio-track="rus", В гостях у сказки HD
+https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Sarafan.ru@SD" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="Основное",Сарафан
 http://192.162.64.99:5000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Основное",Россия 24 HD
