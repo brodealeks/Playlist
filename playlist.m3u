@@ -121,6 +121,12 @@ http://stream.mcquack.net/430/index.m3u8
 http://stream.mcquack.net/429/index.m3u8
 #EXTINF:-1 group-title="Основное" tvg-rec="7" timeshift="7",FRESH KIDS
 http://stream.mcquack.net/425/index.m3u8
+#EXTINF:-1 group-title="Основное ",Cineman VHS
+http://stream.mcquack.net/474/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное ",CineMan
+http://stream.mcquack.net/349/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Основное ",CineMan Top
+http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
 EXTINF:-1 group-title="Основное",CineMan Top
 http://stream.mcquack.net/350/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Основное",Cineman Premium
