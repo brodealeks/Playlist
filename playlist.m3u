@@ -63,8 +63,8 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Основное",Viju TV1000 Русское
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Основное",Viju TV1000 HD
-https://live.uspeh.my/8048/video.m3u8?token=EHFHvNjTwqcqsiKN8
+#EXTINF:-1 tvg-id="viju TV1000 HD" group-title="Основное"  tvg-logo="https://icon.uspeh.my/icon/Viju%20TV1000%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8048/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", viju TV1000 HD
+https://live.uspeh.my/8048/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 group-title="Основное",Viju TV1000 Action
 https://live.uspeh.my/8049/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 group-title="Основное",Viju+ Premiere
@@ -201,5 +201,3 @@ https://radiorecord.hostingradio.ru/sd9096.aacp
 https://hls-01-regions.emgsound.ru/12_msk/playlist.m3u8
 #EXTINF:-1 tvg-id="mayak" group-title="Радио",Радио Маяк
 https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF:-1 tvg-id="viju TV1000 HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/Viju%20TV1000%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8048/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", viju TV1000 HD
-https://live.uspeh.my/8048/video.m3u8?token=EHFHvNjTwqcqsiKN
