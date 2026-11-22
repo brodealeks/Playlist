@@ -235,27 +235,27 @@ https://live.uspeh.my/8821/video.m3u8?token=EHFHvNjTwqcqsiKN
 #EXTINF:-1 tvg-id="CineMan Сваты HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-svaty.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8825/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Сваты HD
 https://live.uspeh.my/8825/video.m3u8?token=EHFHvNjTwqcqsiKN
 
-#EXTINF:-1 tvg-id="Kernel TV Марвел сериалы HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_marvser.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9073/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Марвел сериалы HD
+#EXTINF:-1 tvg-id="Kernel TV Марвел сериалы HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_marvser.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9073/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Марвел сериалы HD
 https://live.uspeh.my/9073/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Бумажный дом HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_bum_dom.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9052/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Бумажный дом HD
+#EXTINF:-1 tvg-id="Kernel TV Бумажный дом HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_bum_dom.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9052/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Бумажный дом HD
 https://live.uspeh.my/9052/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Время HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_time.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9054/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Время HD
+#EXTINF:-1 tvg-id="Kernel TV Время HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_time.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9054/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Время HD
 https://live.uspeh.my/9054/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Герой HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_geroy.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9055/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Герой HD
+#EXTINF:-1 tvg-id="Kernel TV Герой HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_geroy.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9055/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Герой HD
 https://live.uspeh.my/9055/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Доктор HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_doctor.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9058/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Доктор HD
+#EXTINF:-1 tvg-id="Kernel TV Доктор HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_doctor.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9058/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Доктор HD
 https://live.uspeh.my/9058/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Комедия HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_comedy.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9063/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Комедия HD
+#EXTINF:-1 tvg-id="Kernel TV Комедия HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_comedy.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9063/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Комедия HD
 https://live.uspeh.my/9063/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Космос HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_kosmoc.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9064/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Космос HD
+#EXTINF:-1 tvg-id="Kernel TV Космос HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_kosmoc.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9064/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Космос HD
 https://live.uspeh.my/9064/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Новинки HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_new_movies.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9077/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Новинки HD
+#EXTINF:-1 tvg-id="Kernel TV Новинки HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_new_movies.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9077/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Новинки HD
 https://live.uspeh.my/9077/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Сваты HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_svaty.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9080/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Сваты HD
+#EXTINF:-1 tvg-id="Kernel TV Сваты HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_svaty.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9080/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Сваты HD
 https://live.uspeh.my/9080/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Марвел vs DC HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_marvel.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9071/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Марвел vs DC HD
+#EXTINF:-1 tvg-id="Kernel TV Марвел vs DC HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_marvel.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9071/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Марвел vs DC HD
 https://live.uspeh.my/9071/video.m3u8?token=EHFHvNjTwqcqsiKN
-#EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9084/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Счастливого нового года HD
+#EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Kernel TV"  tvg-logo="https://icon.uspeh.my/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9084/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Счастливого нового года HD
 https://live.uspeh.my/9084/video.m3u8?token=EHFHvNjTwqcqsiKN
 
 
