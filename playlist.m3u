@@ -139,6 +139,235 @@ https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 tvg-id="BCUMEDIA HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCUMEDIA%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8886/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU MEDIA HD
+https://live.uspeh.my/8886/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Premiere HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Premiere%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8475/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Premiere HD
+https://live.uspeh.my/8475/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Premiere 1 HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%201%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8468/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Premiere 1 HD
+https://live.uspeh.my/8468/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Premiere 2 HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%B7%D0%B0%D0%BB%20Premiere%203%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8473/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Premiere 2 HD
+https://live.uspeh.my/8473/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Premiere 3 HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Premiere%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8474/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Premiere 3 HD
+https://live.uspeh.my/8474/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Action HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Action%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8481/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Action HD
+https://live.uspeh.my/8481/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Marvel HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Marvel%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8476/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Marvel HD
+https://live.uspeh.my/8476/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Comedy HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Comedy%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8477/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Comedy HD
+https://live.uspeh.my/8477/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Fantastic HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Fantastic%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8478/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Fantastic HD
+https://live.uspeh.my/8478/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU FilMystic HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20FilMystic%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8479/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU FilMystic HD
+https://live.uspeh.my/8479/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Cinema+ HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Cinema+%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8892/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Cinema+ HD
+https://live.uspeh.my/8892/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Cinema HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Cinema%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8891/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Cinema HD
+https://live.uspeh.my/8891/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Kinorating HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Kinorating%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8455/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Kinorating HD
+https://live.uspeh.my/8455/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Catastrophe HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Catastrophe%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8877/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Catastrophe HD
+https://live.uspeh.my/8877/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Сваты HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8889/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Сваты HD
+https://live.uspeh.my/8889/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU History HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20History%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8881/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU History HD
+https://live.uspeh.my/8881/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Romantic HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Romantic%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8884/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Romantic HD
+https://live.uspeh.my/8884/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Criminal HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Criminal%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8890/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Criminal HD
+https://live.uspeh.my/8890/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Stars HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Stars%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8885/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Stars HD
+https://live.uspeh.my/8885/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU TruMotion HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20TruMotion%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8977/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU TruMotion HD
+https://live.uspeh.my/8977/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Survival HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Survival%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8912/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Survival HD
+https://live.uspeh.my/8912/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Reality HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Reality%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8910/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Reality HD
+https://live.uspeh.my/8910/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU Russia 90s HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20Russia%2090s%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8980/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU Russia 90s HD
+https://live.uspeh.my/8980/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="BCU VHS HD" group-title="BCU"  tvg-logo="https://icon.uspeh.my/icon/BCU%20VHS%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8908/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", BCU VHS HD
+https://live.uspeh.my/8908/video.m3u8?token=EHFHvNjTwqcqsiKN
+
+
+
+
+#EXTINF:-1 tvg-id="CineMan HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8952/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan HD
+https://live.uspeh.my/8952/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan MiniSeries HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-miniseries.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8961/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan MiniSeries HD
+https://live.uspeh.my/8961/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan TOP HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-top.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8959/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan TOP HD
+https://live.uspeh.my/8959/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Marvel HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-marvel.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8951/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Marvel HD
+https://live.uspeh.my/8951/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Ужасы HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-uzhasy.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8960/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Ужасы HD
+https://live.uspeh.my/8960/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Триллер HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-thriller.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8954/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Триллер HD
+https://live.uspeh.my/8954/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Катастрофы HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/CineMan%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%8B.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8957/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Катастрофы HD
+https://live.uspeh.my/8957/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Premium HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-premium.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8967/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Premium HD
+https://live.uspeh.my/8967/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Мелодрама HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-melodrama.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8955/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Мелодрама HD
+https://live.uspeh.my/8955/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Комедийные сериалы HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-komseri.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8958/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Комедийные сериалы HD
+https://live.uspeh.my/8958/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Ментовские войны HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-musw.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8802/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Ментовские войны HD
+https://live.uspeh.my/8802/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Криминальные Сериалы HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-gluhar.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8772/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Криминальные Сериалы HD
+https://live.uspeh.my/8772/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Расследование авиакатастроф HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-aircrash.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8826/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Расследование авиакатастроф HD
+https://live.uspeh.my/8826/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Дубляж СССР HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/CineManDUBCCCP.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/9498/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Дубляж СССР HD
+https://live.uspeh.my/9498/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan СССР HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/CineMan%20%D0%A1%D0%A1%D0%A1%D0%A0%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/9121/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan СССР HD
+https://live.uspeh.my/9121/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan ПёС + ЛИХАЧ HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-pes.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8824/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan ПёС + ЛИХАЧ HD
+https://live.uspeh.my/8824/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Лесник HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-lesnik.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8767/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Лесник HD
+https://live.uspeh.my/8767/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Фитнес HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-fitnes.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8771/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Фитнес HD
+https://live.uspeh.my/8771/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan VHS HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-vhs.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8807/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan VHS HD
+https://live.uspeh.my/8807/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Emergency Room HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/CineMan%20%D0%A1%D0%BA%D0%BE%D1%80%D0%B0%D1%8F%20%D0%9F%D0%BE%D0%BC%D0%BE%D1%89%D1%8C.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8821/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Emergency Room HD
+https://live.uspeh.my/8821/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="CineMan Сваты HD" group-title="CineMan"  tvg-logo="https://icon.uspeh.my/icon/cineman-svaty.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8825/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", CineMan Сваты HD
+https://live.uspeh.my/8825/video.m3u8?token=EHFHvNjTwqcqsiKN
+
+#EXTINF:-1 tvg-id="Kernel TV Марвел сериалы HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_marvser.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9073/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Марвел сериалы HD
+https://live.uspeh.my/9073/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Бумажный дом HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_bum_dom.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9052/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Бумажный дом HD
+https://live.uspeh.my/9052/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Время HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_time.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9054/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Время HD
+https://live.uspeh.my/9054/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Герой HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_geroy.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9055/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Герой HD
+https://live.uspeh.my/9055/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Доктор HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_doctor.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9058/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Доктор HD
+https://live.uspeh.my/9058/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Комедия HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_comedy.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9063/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Комедия HD
+https://live.uspeh.my/9063/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Космос HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_kosmoc.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9064/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Космос HD
+https://live.uspeh.my/9064/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Новинки HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_new_movies.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9077/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Новинки HD
+https://live.uspeh.my/9077/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Сваты HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_svaty.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9080/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Сваты HD
+https://live.uspeh.my/9080/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Марвел vs DC HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_marvel.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9071/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Марвел vs DC HD
+https://live.uspeh.my/9071/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы-test"  tvg-logo="https://icon.uspeh.my/icon/kernel_happy_new_year.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/9084/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", Kernel TV Счастливого нового года HD
+https://live.uspeh.my/9084/video.m3u8?token=EHFHvNjTwqcqsiKN
+
+
+#EXTINF:-1 tvg-id="MM NewFilm 1 HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20NewFilm%201%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8741/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", MM NewFilm 1 HD
+https://live.uspeh.my/8741/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM NewFilm 2 HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20NewFilm%202%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8742/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", MM NewFilm 2 HD
+https://live.uspeh.my/8742/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM NewFilm 3 HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20NewFilm%203%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8743/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", MM NewFilm 3 HD
+https://live.uspeh.my/8743/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM NewFilm RU HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20NewFilm%20RU%20HD.png" catchup="default" catchup-days="7" catchup-source="https://live.uspeh.my/8706/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="7", MM NewFilm RU HD
+https://live.uspeh.my/8706/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Семейный 1 HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%201%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8442/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Семейный 1 HD
+https://live.uspeh.my/8442/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Боевик HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8745/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Боевик HD
+https://live.uspeh.my/8745/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Ужасы HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8725/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Ужасы HD
+https://live.uspeh.my/8725/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Love HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20Love%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8328/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Love HD
+https://live.uspeh.my/8328/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Комедия HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8708/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Комедия HD
+https://live.uspeh.my/8708/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Фантастика HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8631/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Фантастика HD
+https://live.uspeh.my/8631/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Триллер HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A2%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8778/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Триллер HD
+https://live.uspeh.my/8778/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Ужастик HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8325/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Ужастик HD
+https://live.uspeh.my/8325/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Фобия HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A4%D0%BE%D0%B1%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8994/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Фобия HD
+https://live.uspeh.my/8994/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Драма HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8634/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Драма HD
+https://live.uspeh.my/8634/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Катастрофа HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8746/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Катастрофа HD
+https://live.uspeh.my/8746/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Вестерн HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8619/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Вестерн HD
+https://live.uspeh.my/8619/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Грайндхаус HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%93%D1%80%D0%B0%D0%B9%D0%BD%D0%B4%D1%85%D0%B0%D1%83%D1%81%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8621/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Грайндхаус HD
+https://live.uspeh.my/8621/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Криминал HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8624/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Криминал HD
+https://live.uspeh.my/8624/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Супергерои HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8710/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Супергерои HD
+https://live.uspeh.my/8710/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Синематограф HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8627/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Синематограф HD
+https://live.uspeh.my/8627/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Нуар HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9D%D1%83%D0%B0%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8733/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Нуар HD
+https://live.uspeh.my/8733/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Затмение HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8685/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Затмение HD
+https://live.uspeh.my/8685/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Погружение HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8799/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Погружение HD
+https://live.uspeh.my/8799/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Киберпанк HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8545/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Киберпанк HD
+https://live.uspeh.my/8545/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Кинофестиваль HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8658/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Кинофестиваль HD
+https://live.uspeh.my/8658/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Translation HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20Translation%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8633/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Translation HD
+https://live.uspeh.my/8633/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Стивен Кинг HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8629/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Стивен Кинг HD
+https://live.uspeh.my/8629/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM UFO HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20UFO%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8410/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM UFO HD
+https://live.uspeh.my/8410/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Скорость HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8916/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Скорость HD
+https://live.uspeh.my/8916/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Спорт HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8652/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Спорт HD
+https://live.uspeh.my/8652/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Кунг-Фу HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D1%83%D0%BD%D0%B3-%D0%A4%D1%83%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8559/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Кунг-Фу HD
+https://live.uspeh.my/8559/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Крутые 90-е HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5%2090-%D0%B5%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8547/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Крутые 90-е HD
+https://live.uspeh.my/8547/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM OldSchool HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20OldSchool%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8644/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM OldSchool HD
+https://live.uspeh.my/8644/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Celebrity HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20Celebrity%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8991/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Celebrity HD
+https://live.uspeh.my/8991/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Ситком HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8628/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Ситком HD
+https://live.uspeh.my/8628/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Ситком 2.0 HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8623/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Ситком 2.0 HD
+https://live.uspeh.my/8623/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Агата Кристи HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8618/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Агата Кристи HD
+https://live.uspeh.my/8618/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Воронины HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8620/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Воронины HD
+https://live.uspeh.my/8620/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Сваты HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8893/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Сваты HD
+https://live.uspeh.my/8893/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Полицейский с Рублёвки HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%20%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%BA%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8626/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Полицейский с Рублёвки HD
+https://live.uspeh.my/8626/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM 007 HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20007%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8327/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM 007 HD
+https://live.uspeh.my/8327/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Classic HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8632/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Classic HD
+https://live.uspeh.my/8632/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Ужасы Classic HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8630/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Ужасы Classic HD
+https://live.uspeh.my/8630/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Комедия Classic HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20Classic%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8789/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Комедия Classic HD
+https://live.uspeh.my/8789/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Боевик Classic HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20Classic%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8411/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM Боевик Classic HD
+https://live.uspeh.my/8411/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM USSR Комедия HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20USSR%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8744/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM USSR Комедия HD
+https://live.uspeh.my/8744/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM USSR Драма HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20USSR%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8894/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM USSR Драма HD
+https://live.uspeh.my/8894/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM USSR Детектив HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20USSR%20%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20HD.png" catchup="default" catchup-days="1" catchup-source="https://live.uspeh.my/8656/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="1", MM USSR Детектив HD
+https://live.uspeh.my/8656/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM USSR Сказки HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20USSR%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8616/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM USSR Сказки HD
+https://live.uspeh.my/8616/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM USSR 1941-1945 HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20USSR%201941-1945%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8614/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM USSR 1941-1945 HD
+https://live.uspeh.my/8614/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM USSR Приключения HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20USSR%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8615/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM USSR Приключения HD
+https://live.uspeh.my/8615/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Приключения HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8779/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Приключения HD
+https://live.uspeh.my/8779/video.m3u8?token=EHFHvNjTwqcqsiKN
+#EXTINF:-1 tvg-id="MM Мифология HD" group-title="MM"  tvg-logo="https://icon.uspeh.my/icon/MM%20%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="https://live.uspeh.my/8625/video-${start}-${duration}.m3u8?token=EHFHvNjTwqcqsiKN" timeshift="3", MM Мифология HD
+https://live.uspeh.my/8625/video.m3u8?token=EHFHvNjTwqcqsiKN
+
+
+
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="Музыка",BRIDGE (576p)
 http://178.134.1.158:8081/BRIDGE/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru@SD" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="Музыка",BRIDGE Rock (576p)
