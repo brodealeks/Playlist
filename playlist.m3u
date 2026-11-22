@@ -107,6 +107,8 @@ https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основное",Cartoon Network
 http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="Основное",magic disney
+http://185.76.10.53:8080/srv5/magic_disney/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
 #EXTINF:-1 group-title="Основное",Мульт HD
 http://185.46.16.239:8000/Mir_24
 #EXTINF:-1 group-title="Основное",Карусель
